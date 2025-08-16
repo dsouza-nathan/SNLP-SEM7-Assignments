@@ -15,7 +15,7 @@ The goal is to compare pre-trained embeddings vs. learned embeddings, and simple
 
 Below is the structure of this project (screenshot attached for clarity):
 
-[alt text](image.png)
+![Project structure](image.png)
 
 ---
 
